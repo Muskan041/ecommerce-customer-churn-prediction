@@ -13,3 +13,4 @@ Customer churn is a critical metric for e-commerce businesses. Acquiring new cus
 ├── requirements.txt                   # List of required Python packages
 ├── final_churn_risk_predictions.csv   # Full prediction outputs across the dataset
 └── top_20_high_risk_customers.csv    # Filtered list of top 20 customers most likely to churn
+```
