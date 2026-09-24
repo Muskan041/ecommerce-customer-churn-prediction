@@ -1,0 +1,21 @@
+Customer_ID,Recency,Frequency,Monetary,Actual_Churn,Predicted_Churn,Churn_Probability,Risk_Level
+C216,84,1,15388.0,0,1,74.98%,High Risk
+C303,87,1,65560.0,0,1,73.53%,High Risk
+C001,84,1,65000.0,1,1,72.91%,High Risk
+C115,76,1,36102.0,0,1,72.41%,High Risk
+C243,64,1,13344.0,0,1,70.73%,High Risk
+C110,60,1,7572.0,0,1,70.07%,High Risk
+C112,60,1,24504.0,0,1,69.3%,Medium Risk
+C156,54,1,2075.0,1,1,68.93%,Medium Risk
+C419,72,1,158925.0,0,1,65.79%,Medium Risk
+C206,46,1,36474.0,0,1,65.34%,Medium Risk
+C298,46,1,39858.0,0,1,65.18%,Medium Risk
+C224,37,1,7980.0,0,1,64.5%,Medium Risk
+C153,37,1,13028.0,0,1,64.25%,Medium Risk
+C346,37,1,17272.0,0,1,64.04%,Medium Risk
+C060,33,1,13235.0,1,1,63.22%,Medium Risk
+C431,34,1,32130.0,0,1,62.52%,Medium Risk
+C185,24,1,18223.0,0,1,60.64%,Medium Risk
+C317,23,1,28972.0,0,1,59.81%,Medium Risk
+C083,11,1,3104.0,0,1,57.98%,Medium Risk
+C332,10,1,9732.0,1,1,57.66%,Medium Risk
